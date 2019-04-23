@@ -1,0 +1,13 @@
+.rule {
+  color: red;
+}
+
+.rule a {
+  color: blue;
+}
+
+.rule a span {
+  color: pink;
+  background: blue;
+}
+/*# sourceMappingURL=style.css.map */
